@@ -1,5 +1,7 @@
 # Remarkable 2
 
+Pictures need to be at 1404x1872
+
 ## Preview
 
 |                       |                                |

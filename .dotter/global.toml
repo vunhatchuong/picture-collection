@@ -1,0 +1,6 @@
+# On Windows, '~' is expanded to 'C:\Users\<USERNAME>\'
+[settings]
+default_target_type = "symbolic"
+
+[general.files]
+wallpapers = "~/Pictures/wallpapers"
